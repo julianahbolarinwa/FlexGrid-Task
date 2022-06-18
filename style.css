@@ -39,10 +39,9 @@ a {
 .main {
   display: flex;
   flex-direction: row;
-  width: 50%;
-  margin: auto;
+ 
   justify-content: center;
-  padding:100px 50px ;
+  padding:50px 230px ;
 }
 img {
   width: 30px;

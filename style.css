@@ -39,7 +39,6 @@ a {
 .main {
   display: flex;
   flex-direction: row;
-  height: 70vh;
   justify-content: center;
   padding:50px 230px ;
   width: 50%;

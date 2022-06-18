@@ -39,11 +39,11 @@ a {
 .main {
   display: flex;
   flex-direction: row;
-  height: 60vh;
+  height: 70vh;
   justify-content: center;
   padding:50px 230px ;
   width: 50%;
-margin: auto;
+ margin: auto;
 }
 img {
   width: 30px;
